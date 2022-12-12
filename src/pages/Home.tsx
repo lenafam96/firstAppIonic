@@ -20,7 +20,9 @@ const Home: React.FC = () => {
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Blank</IonTitle>
+            <IonTitle size="small">
+              <h2>Giải phương trình bậc 2</h2>
+            </IonTitle>
           </IonToolbar>
         </IonHeader>
         <SolveEquation />
