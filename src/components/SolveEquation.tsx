@@ -1,4 +1,4 @@
-// import "./ExploreContainer.css";
+import "./SolveEquation.css";
 
 import { useEffect, useState } from "react";
 
